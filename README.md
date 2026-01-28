@@ -19,8 +19,3 @@ I don't just write code; I build scalable, enterprise-level systems. My focus is
 * **FindMyDoctor:** A comprehensive healthcare platform for booking appointments (Focusing on Real-world Architecture).
 * **OmniMenu:** A SaaS platform digitizing restaurant menus.
 * **MAKEEN:** Building the foundation for a future tech enterprise.
-
----
-
-### 📈 GitHub Stats
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Io-oI&show_icons=true&theme=radical)
