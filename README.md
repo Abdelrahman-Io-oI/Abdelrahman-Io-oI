@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Abdelrahman Ashraf 👋
 
-<!--
-**Abdelrahman-Io-oI/Abdelrahman-Io-oI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science Student @ Cairo University | Full Stack Engineer**
 
-Here are some ideas to get you started:
+I don't just write code; I build scalable, enterprise-level systems. My focus is on software architecture, clean code, and high-performance applications using modern tech stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Arsenal
+* **Languages:** TypeScript, JavaScript, Go, Rust, Java.
+* **Frontend:** Next.js, React, Tailwind CSS.
+* **Backend:** NestJS, Node.js.
+* **Architecture:** System Design, Design Patterns, SOLID Principles, Microservices.
+* **Tools:** Linux (Fedora), Git, Docker.
+
+---
+
+### 🔭 Current Projects
+* **FindMyDoctor:** A comprehensive healthcare platform for booking appointments (Focusing on Real-world Architecture).
+* **OmniMenu:** A SaaS platform digitizing restaurant menus.
+* **MAKEEN:** Building the foundation for a future tech enterprise.
+
+---
+
+### 📈 GitHub Stats
+![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Io-oI&show_icons=true&theme=radical)
